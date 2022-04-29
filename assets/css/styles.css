@@ -34,3 +34,7 @@ body{
     margin: 0;
     color: rgb(241, 98, 98);
 }
+
+.alert-danger{
+    display: none;
+}
