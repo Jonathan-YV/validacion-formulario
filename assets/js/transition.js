@@ -6,7 +6,8 @@ const dataImage = [
 ]
 
 const back = document.querySelector(".register-bg")
-let contador = 0
+let contador = parseInt(Math.random() * 4)
+back.style.backgroundImage = `url(${dataImage[contador]})`
 
 back.addEventListener("click",(e)=>{
     contador++
