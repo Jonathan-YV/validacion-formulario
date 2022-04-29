@@ -1,0 +1,37 @@
+body{
+    background-color: rgb(49, 49, 49);
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.bg-dark{
+    background-color: rgb(31, 31, 31) !important;
+}
+
+
+.btn-check-red{
+    accent-color: red;
+    height: 18px;
+}
+
+.register-bg{
+    background-image: url("https://w0.peakpx.com/wallpaper/783/909/HD-wallpaper-anime-cat-girl-room-computer-animal-ears-coffee-cute-anime.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.form-group{
+    margin-bottom: 30px;
+}
+
+
+.msj-error{
+    position: absolute;
+    margin: 0;
+    color: rgb(241, 98, 98);
+}
