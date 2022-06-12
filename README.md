@@ -10,7 +10,7 @@ Página web utilizando HTML, CSS y JavaScript, consumiendo los datos de la Jikan
 
 ## GitHub pages
 
-* https://jonathan-yv.github.io/jikan-api/
+* https://jonathan-yv.github.io/validacion-formulario/
 
 
 ## Características
