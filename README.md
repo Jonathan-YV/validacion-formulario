@@ -1,6 +1,6 @@
 # Validación de formularios
 
-Página web utilizando HTML, CSS y JavaScript, consumiendo los datos de la Jikan API 
+Página web utilizando HTML, CSS, JavaScript y Bootstrap
 
 <div>
     <p style = 'text-align:center;'>
